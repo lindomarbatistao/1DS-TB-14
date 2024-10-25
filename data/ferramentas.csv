@@ -1,0 +1,3 @@
+tituloProduto,preco,descricao,imagemProduto,categoriaProduto,classProduto,exibirHome
+furadeira,500,Furar paredes,/images,Ferramentas,Manual,True
+parafusadeira,250,Parafusar coisas,/images,Ferramentas,Manual,False
